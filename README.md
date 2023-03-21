@@ -1,0 +1,4 @@
+# Supply-chain-optimization
+Supply Chain Optimization is a critical aspect of modern manufacturing processes. It helps to optimize the flow of goods and services from suppliers to customers by reducing costs, increasing efficiency, and improving customer satisfaction. One of the most popular algorithms used for supply chain optimization is Dijkstra's Algorithm.
+
+Dijkstra's Algorithm is a graph-based algorithm that finds the shortest path between two nodes in a graph. In the context of supply chain optimization, the nodes represent the various stages of the manufacturing process, and the edges represent the flow of goods and services between these stages. By applying Dijkstra's Algorithm to this graph, we can determine the optimal path for the flow of goods and services that minimizes cost and maximizes efficiency.
